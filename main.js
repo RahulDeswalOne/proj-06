@@ -1,0 +1,4 @@
+function psudocode(){
+//sample code
+
+}
